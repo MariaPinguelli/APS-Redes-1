@@ -1,0 +1,13 @@
+{
+	"ipValido": true,
+	"mascaraValida": true,
+	"netID": 24,
+	"hostID": 8,
+	"ipClasse": "Classe C",
+	"ipRede": "192.168.0.0",
+	"ipBroadcast": "192.168.0.255",
+	"qtdHosts": 254,
+	"menorIp":"[192, 168, 0, 1]",
+	"maiorIp":"[192, 168, 0, 254]",
+	"ipReservado": false
+}
